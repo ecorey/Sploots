@@ -30,6 +30,7 @@ const About = () => {
           One Sploot per wallet. <br />
           100% Free Mint. <br />
           All personally crafted, no repeats. <br /> <br />
+          contract mainnet address: 0x74b219d1805460B705f4f01C839a954a530B184D <br />
           ⸜(*ˊᗜˋ*)⸝ <br />
         </Text>
         <Box height="50px" /> {/* This is the spacer */}
