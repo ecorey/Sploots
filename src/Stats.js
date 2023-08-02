@@ -5,7 +5,7 @@ import { ethers } from "ethers";
 import splootsNFT from "./SplootsNFT.json";
 import { splootsNFTAddress } from "./constants";
 
-// const splootsNFTAddress = '0x326bBc698bb3f0f76cfD02036029c53D5dE10fd7';
+
 
 const Stats = () => {
   const [mintPrice, setMintPrice] = useState(0);
@@ -19,7 +19,7 @@ const Stats = () => {
     try {
       // Connect to the Sepolia network
       const provider = new ethers.providers.JsonRpcProvider(
-        "https://sepolia.infura.io/v3/7e7c24c11484483e839762154901d73b"
+        "https://mainnet.infura.io/v3/4dbb85c307a6468cac25195a1aa39f31"
       );
       const network = await provider.getNetwork();
 
