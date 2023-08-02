@@ -29,7 +29,7 @@ const About = () => {
           50 Sploots. <br />
           One Sploot per wallet. <br />
           100% Free Mint. <br />
-          All personally crafted, no repeats. <br /> <br />
+          All personally crafted, no repeats. <br /> 
           contract mainnet address: 0x74b219d1805460B705f4f01C839a954a530B184D <br />
           ⸜(*ˊᗜˋ*)⸝ <br />
         </Text>
