@@ -1,4 +1,4 @@
 [build]
-  publish = "path_to_your_publish_folder"
-  command = "your_build_command"
+  publish = "build"
+  command = "npm run build"
   environment = { NODE_VERSION = "16.20.1" }
